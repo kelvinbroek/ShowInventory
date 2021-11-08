@@ -1,0 +1,14 @@
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Application\bin\Debug\net5.0\TvShow.Inventory.Application.deps.json
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Application\bin\Debug\net5.0\TvShow.Inventory.Application.dll
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Application\bin\Debug\net5.0\ref\TvShow.Inventory.Application.dll
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Application\bin\Debug\net5.0\TvShow.Inventory.Application.pdb
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Application\bin\Debug\net5.0\TvShow.Inventory.Domain.dll
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Application\bin\Debug\net5.0\TvShow.Inventory.Domain.pdb
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Application\obj\Debug\net5.0\TvShow.Inventory.Application.csproj.AssemblyReference.cache
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Application\obj\Debug\net5.0\TvShow.Inventory.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Application\obj\Debug\net5.0\TvShow.Inventory.Application.AssemblyInfoInputs.cache
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Application\obj\Debug\net5.0\TvShow.Inventory.Application.AssemblyInfo.cs
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Application\obj\Debug\net5.0\TvShow.Inventory.Application.csproj.CoreCompileInputs.cache
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Application\obj\Debug\net5.0\TvShow.Inventory.Application.dll
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Application\obj\Debug\net5.0\ref\TvShow.Inventory.Application.dll
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Application\obj\Debug\net5.0\TvShow.Inventory.Application.pdb

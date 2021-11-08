@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TvShow.Inventory.Domain", "TvShow.Inventory.Domain\TvShow.Inventory.Domain.csproj", "{A14E0463-C247-4F86-B8A3-593E841BD944}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TvShow.Inventory.Application", "TvShow.Inventory.Application\TvShow.Inventory.Application.csproj", "{F8642314-C9CC-492B-861C-567642CD28EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TvShow.Inventory.Persistence", "TvShow.Inventory.Persistence\TvShow.Inventory.Persistence.csproj", "{5353D9FA-168D-473C-8060-8EE8B6159D2B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TvShow.Inventory.Infrastructure", "TvShow.Inventory.Infrastructure\TvShow.Inventory.Infrastructure.csproj", "{352C917E-0FF9-404F-9C3C-2D7B4FA6D052}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{79A0DE34-8F5F-43DF-873F-F5EFFA00250D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvShow.Inventory.Service", "TvShow.Inventory.Service\TvShow.Inventory.Service.csproj", "{FEA2737C-B2D7-4A06-B573-639C4C2E7529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvShow.Inventory.Application.Tests", "TvShow.Inventory.Application.Tests\TvShow.Inventory.Application.Tests.csproj", "{208C3715-8D0F-4CCF-BDE8-F026B267827E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A14E0463-C247-4F86-B8A3-593E841BD944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14E0463-C247-4F86-B8A3-593E841BD944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14E0463-C247-4F86-B8A3-593E841BD944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14E0463-C247-4F86-B8A3-593E841BD944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8642314-C9CC-492B-861C-567642CD28EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8642314-C9CC-492B-861C-567642CD28EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8642314-C9CC-492B-861C-567642CD28EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8642314-C9CC-492B-861C-567642CD28EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5353D9FA-168D-473C-8060-8EE8B6159D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5353D9FA-168D-473C-8060-8EE8B6159D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5353D9FA-168D-473C-8060-8EE8B6159D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5353D9FA-168D-473C-8060-8EE8B6159D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{352C917E-0FF9-404F-9C3C-2D7B4FA6D052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352C917E-0FF9-404F-9C3C-2D7B4FA6D052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352C917E-0FF9-404F-9C3C-2D7B4FA6D052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352C917E-0FF9-404F-9C3C-2D7B4FA6D052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA2737C-B2D7-4A06-B573-639C4C2E7529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA2737C-B2D7-4A06-B573-639C4C2E7529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA2737C-B2D7-4A06-B573-639C4C2E7529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA2737C-B2D7-4A06-B573-639C4C2E7529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{208C3715-8D0F-4CCF-BDE8-F026B267827E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208C3715-8D0F-4CCF-BDE8-F026B267827E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208C3715-8D0F-4CCF-BDE8-F026B267827E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208C3715-8D0F-4CCF-BDE8-F026B267827E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{208C3715-8D0F-4CCF-BDE8-F026B267827E} = {79A0DE34-8F5F-43DF-873F-F5EFFA00250D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA69657-1D11-40CF-A693-53C6BF7F5402}
+	EndGlobalSection
+EndGlobal

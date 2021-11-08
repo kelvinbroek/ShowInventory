@@ -1,0 +1,16 @@
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\bin\Debug\net5.0\TvShow.Inventory.Infrastructure.deps.json
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\bin\Debug\net5.0\TvShow.Inventory.Infrastructure.dll
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\bin\Debug\net5.0\ref\TvShow.Inventory.Infrastructure.dll
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\bin\Debug\net5.0\TvShow.Inventory.Infrastructure.pdb
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\bin\Debug\net5.0\TvShow.Inventory.Application.dll
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\bin\Debug\net5.0\TvShow.Inventory.Domain.dll
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\bin\Debug\net5.0\TvShow.Inventory.Application.pdb
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\bin\Debug\net5.0\TvShow.Inventory.Domain.pdb
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\obj\Debug\net5.0\TvShow.Inventory.Infrastructure.csproj.AssemblyReference.cache
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\obj\Debug\net5.0\TvShow.Inventory.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\obj\Debug\net5.0\TvShow.Inventory.Infrastructure.AssemblyInfoInputs.cache
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\obj\Debug\net5.0\TvShow.Inventory.Infrastructure.AssemblyInfo.cs
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\obj\Debug\net5.0\TvShow.Inventory.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\obj\Debug\net5.0\TvShow.Inventory.Infrastructure.dll
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\obj\Debug\net5.0\ref\TvShow.Inventory.Infrastructure.dll
+C:\Workspace\Inventory\TvShow.Inventory\TvShow.Inventory.Infrastructure\obj\Debug\net5.0\TvShow.Inventory.Infrastructure.pdb
